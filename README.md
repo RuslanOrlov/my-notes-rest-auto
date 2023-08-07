@@ -10,7 +10,7 @@ The project implements a REST API with automatically generated endpoints for the
 
 P.S.: This version of the application implements both server and client functions. 
 
-/*------------------------------------------------------------*/
+/*----------------------------------------------------------------------------------------------*/
 
 RU: Проект на языке Java и Spring Boot по учету заметок с использованием REST API (сервер и клиент реализованы в одном приложении).
 
